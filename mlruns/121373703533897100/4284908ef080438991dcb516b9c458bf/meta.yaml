@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/4284908ef080438991dcb516b9c458bf/artifacts
+end_time: 1764090284773
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 4284908ef080438991dcb516b9c458bf
+run_name: aged-midge-59
+run_uuid: 4284908ef080438991dcb516b9c458bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764090157171
+status: 3
+tags: []
+user_id: scale

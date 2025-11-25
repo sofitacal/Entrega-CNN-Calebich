@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/f6d2afc29e0b4f3e826b4034c328e34e/artifacts
+end_time: 1764104128966
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: f6d2afc29e0b4f3e826b4034c328e34e
+run_name: classy-ant-845
+run_uuid: f6d2afc29e0b4f3e826b4034c328e34e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764103522384
+status: 3
+tags: []
+user_id: scale

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/bc73d619b1e04275a1d8bae05168291c/artifacts
+end_time: 1764029725700
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: bc73d619b1e04275a1d8bae05168291c
+run_name: sassy-ape-111
+run_uuid: bc73d619b1e04275a1d8bae05168291c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764029323299
+status: 3
+tags: []
+user_id: scale

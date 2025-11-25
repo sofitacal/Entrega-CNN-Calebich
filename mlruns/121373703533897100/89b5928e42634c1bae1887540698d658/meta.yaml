@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/89b5928e42634c1bae1887540698d658/artifacts
+end_time: 1764031772074
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 89b5928e42634c1bae1887540698d658
+run_name: unique-snake-315
+run_uuid: 89b5928e42634c1bae1887540698d658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764031486188
+status: 3
+tags: []
+user_id: scale

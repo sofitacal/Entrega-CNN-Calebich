@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/de5916f5a2fc48f3bd26d8f0388f93d2/artifacts
+end_time: 1764030911798
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: de5916f5a2fc48f3bd26d8f0388f93d2
+run_name: lyrical-seal-98
+run_uuid: de5916f5a2fc48f3bd26d8f0388f93d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764030432796
+status: 3
+tags: []
+user_id: scale

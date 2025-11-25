@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/974fccac8f444863b4c0be9f19c82493/artifacts
+end_time: 1764027573737
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 974fccac8f444863b4c0be9f19c82493
+run_name: adventurous-flea-780
+run_uuid: 974fccac8f444863b4c0be9f19c82493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764026856514
+status: 3
+tags: []
+user_id: scale

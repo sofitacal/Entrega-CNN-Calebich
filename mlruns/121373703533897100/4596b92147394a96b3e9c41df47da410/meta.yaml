@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/4596b92147394a96b3e9c41df47da410/artifacts
+end_time: 1764091263722
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 4596b92147394a96b3e9c41df47da410
+run_name: defiant-sow-3
+run_uuid: 4596b92147394a96b3e9c41df47da410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764090931373
+status: 3
+tags: []
+user_id: scale

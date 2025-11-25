@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/bfa7206805dc4fb9a940c395d3e0ff5f/artifacts
+end_time: 1764025888554
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: bfa7206805dc4fb9a940c395d3e0ff5f
+run_name: debonair-mare-520
+run_uuid: bfa7206805dc4fb9a940c395d3e0ff5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764025382414
+status: 3
+tags: []
+user_id: scale

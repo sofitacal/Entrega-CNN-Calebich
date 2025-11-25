@@ -1,0 +1,19 @@
+Adam (
+Parameter Group 0
+    amsgrad: False
+    base_momentum: 0.85
+    betas: (0.9226251601279327, 0.999)
+    capturable: False
+    decoupled_weight_decay: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    initial_lr: 0.0004
+    lr: 0.0030279846277184545
+    max_lr: 0.01
+    max_momentum: 0.95
+    maximize: False
+    min_lr: 4e-08
+    weight_decay: 0
+)

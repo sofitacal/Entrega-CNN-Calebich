@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/79446ff7427b4d249052af8669f9c9b7/artifacts
+end_time: 1764104703347
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 79446ff7427b4d249052af8669f9c9b7
+run_name: able-smelt-257
+run_uuid: 79446ff7427b4d249052af8669f9c9b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764104129016
+status: 3
+tags: []
+user_id: scale

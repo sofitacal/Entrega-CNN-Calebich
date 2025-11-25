@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/66ca76e0959c431089108ac3b84d0226/artifacts
+end_time: 1764026554597
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 66ca76e0959c431089108ac3b84d0226
+run_name: grandiose-fowl-359
+run_uuid: 66ca76e0959c431089108ac3b84d0226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764026505163
+status: 4
+tags: []
+user_id: scale

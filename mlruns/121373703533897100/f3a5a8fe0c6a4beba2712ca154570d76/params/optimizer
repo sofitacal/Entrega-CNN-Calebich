@@ -1,0 +1,17 @@
+SGD (
+Parameter Group 0
+    base_momentum: 0.85
+    dampening: 0
+    differentiable: False
+    foreach: None
+    fused: None
+    initial_lr: 4e-06
+    lr: 4.20444603946684e-05
+    max_lr: 0.0001
+    max_momentum: 0.95
+    maximize: False
+    min_lr: 3.9999999999999996e-10
+    momentum: 0.9103703537555538
+    nesterov: False
+    weight_decay: 0
+)

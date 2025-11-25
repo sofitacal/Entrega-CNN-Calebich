@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/ae1b2197f5534d15ab5065b65fa7c2de/artifacts
+end_time: 1764103128485
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: ae1b2197f5534d15ab5065b65fa7c2de
+run_name: dashing-sheep-667
+run_uuid: ae1b2197f5534d15ab5065b65fa7c2de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764103114226
+status: 4
+tags: []
+user_id: scale

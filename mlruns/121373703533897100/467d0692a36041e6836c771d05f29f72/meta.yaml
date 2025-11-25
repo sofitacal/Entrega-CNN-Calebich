@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/467d0692a36041e6836c771d05f29f72/artifacts
+end_time: 1764092448332
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 467d0692a36041e6836c771d05f29f72
+run_name: powerful-shrike-609
+run_uuid: 467d0692a36041e6836c771d05f29f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764091710346
+status: 3
+tags: []
+user_id: scale

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/bf15d76ab927452b84a5ef4209f66a76/artifacts
+end_time: 1764032072777
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: bf15d76ab927452b84a5ef4209f66a76
+run_name: adventurous-frog-879
+run_uuid: bf15d76ab927452b84a5ef4209f66a76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764031772086
+status: 3
+tags: []
+user_id: scale

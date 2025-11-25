@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/e8af2429b61e4fc2b7b1ca14e3557b5d/artifacts
+end_time: 1764032407056
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: e8af2429b61e4fc2b7b1ca14e3557b5d
+run_name: incongruous-jay-493
+run_uuid: e8af2429b61e4fc2b7b1ca14e3557b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764032347244
+status: 3
+tags: []
+user_id: scale

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/f3a5a8fe0c6a4beba2712ca154570d76/artifacts
+end_time: 1764103111661
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: f3a5a8fe0c6a4beba2712ca154570d76
+run_name: whimsical-bird-369
+run_uuid: f3a5a8fe0c6a4beba2712ca154570d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764102768468
+status: 4
+tags: []
+user_id: scale

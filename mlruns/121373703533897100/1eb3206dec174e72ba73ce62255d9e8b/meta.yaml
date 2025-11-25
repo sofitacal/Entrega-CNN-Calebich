@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/1eb3206dec174e72ba73ce62255d9e8b/artifacts
+end_time: 1764033128973
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 1eb3206dec174e72ba73ce62255d9e8b
+run_name: indecisive-rook-890
+run_uuid: 1eb3206dec174e72ba73ce62255d9e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764032907802
+status: 3
+tags: []
+user_id: scale

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/85a3e19582e449dcb3fafea50d2de4bc/artifacts
+end_time: 1764091401675
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 85a3e19582e449dcb3fafea50d2de4bc
+run_name: crawling-fowl-49
+run_uuid: 85a3e19582e449dcb3fafea50d2de4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764091330962
+status: 3
+tags: []
+user_id: scale

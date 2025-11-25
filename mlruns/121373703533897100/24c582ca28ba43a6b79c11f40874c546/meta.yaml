@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/24c582ca28ba43a6b79c11f40874c546/artifacts
+end_time: 1764090588050
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 24c582ca28ba43a6b79c11f40874c546
+run_name: kindly-bat-643
+run_uuid: 24c582ca28ba43a6b79c11f40874c546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764090284817
+status: 3
+tags: []
+user_id: scale

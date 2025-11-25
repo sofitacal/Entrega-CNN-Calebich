@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/c37e63627216419d8a9671afe8b4d3e6/artifacts
+end_time: 1764106653751
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: c37e63627216419d8a9671afe8b4d3e6
+run_name: nebulous-skink-628
+run_uuid: c37e63627216419d8a9671afe8b4d3e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764104703390
+status: 3
+tags: []
+user_id: scale

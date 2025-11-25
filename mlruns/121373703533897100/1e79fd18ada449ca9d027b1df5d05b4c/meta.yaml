@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/1e79fd18ada449ca9d027b1df5d05b4c/artifacts
+end_time: 1764028096738
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 1e79fd18ada449ca9d027b1df5d05b4c
+run_name: stylish-ram-690
+run_uuid: 1e79fd18ada449ca9d027b1df5d05b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764027573792
+status: 3
+tags: []
+user_id: scale

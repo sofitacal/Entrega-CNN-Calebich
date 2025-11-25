@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/5a44c0aa3ccd416db5755e6c18ded847/artifacts
+end_time: 1764026505108
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 5a44c0aa3ccd416db5755e6c18ded847
+run_name: upbeat-steed-339
+run_uuid: 5a44c0aa3ccd416db5755e6c18ded847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764026133561
+status: 3
+tags: []
+user_id: scale

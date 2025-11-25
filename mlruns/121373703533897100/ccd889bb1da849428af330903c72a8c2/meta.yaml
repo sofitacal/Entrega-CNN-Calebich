@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/ccd889bb1da849428af330903c72a8c2/artifacts
+end_time: 1764024955741
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: ccd889bb1da849428af330903c72a8c2
+run_name: grandiose-bass-439
+run_uuid: ccd889bb1da849428af330903c72a8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764024691287
+status: 3
+tags: []
+user_id: scale

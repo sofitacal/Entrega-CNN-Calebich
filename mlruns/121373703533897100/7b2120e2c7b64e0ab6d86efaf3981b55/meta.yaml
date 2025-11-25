@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/7b2120e2c7b64e0ab6d86efaf3981b55/artifacts
+end_time: 1764031486165
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 7b2120e2c7b64e0ab6d86efaf3981b55
+run_name: angry-wasp-83
+run_uuid: 7b2120e2c7b64e0ab6d86efaf3981b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764031185000
+status: 3
+tags: []
+user_id: scale

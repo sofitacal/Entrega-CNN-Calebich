@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/c22dbe72758e45f189c4eee91951ffc0/artifacts
+end_time: 1764028846047
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: c22dbe72758e45f189c4eee91951ffc0
+run_name: sneaky-quail-286
+run_uuid: c22dbe72758e45f189c4eee91951ffc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764028096765
+status: 3
+tags: []
+user_id: scale

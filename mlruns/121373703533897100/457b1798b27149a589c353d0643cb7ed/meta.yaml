@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/457b1798b27149a589c353d0643cb7ed/artifacts
+end_time: 1764032907772
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 457b1798b27149a589c353d0643cb7ed
+run_name: charming-pug-662
+run_uuid: 457b1798b27149a589c353d0643cb7ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764032407073
+status: 3
+tags: []
+user_id: scale

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/5fa01995f1da4c51bfb28971eda0153e/artifacts
+end_time: 1764030432752
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 5fa01995f1da4c51bfb28971eda0153e
+run_name: colorful-lamb-159
+run_uuid: 5fa01995f1da4c51bfb28971eda0153e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764030141605
+status: 3
+tags: []
+user_id: scale

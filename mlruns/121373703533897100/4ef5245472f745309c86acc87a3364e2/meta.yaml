@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/4ef5245472f745309c86acc87a3364e2/artifacts
+end_time: 1764033648115
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 4ef5245472f745309c86acc87a3364e2
+run_name: colorful-bird-164
+run_uuid: 4ef5245472f745309c86acc87a3364e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764033637040
+status: 4
+tags: []
+user_id: scale

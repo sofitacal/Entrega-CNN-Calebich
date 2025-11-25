@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/c786c576f0ac4e73a68d2a0df28ae2ed/artifacts
+end_time: 1764026856464
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: c786c576f0ac4e73a68d2a0df28ae2ed
+run_name: peaceful-stoat-520
+run_uuid: c786c576f0ac4e73a68d2a0df28ae2ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764026647289
+status: 3
+tags: []
+user_id: scale

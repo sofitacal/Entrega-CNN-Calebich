@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/4d65f336bce94a6aaedc180c5d9d180d/artifacts
+end_time: 1764090931357
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 4d65f336bce94a6aaedc180c5d9d180d
+run_name: calm-stork-556
+run_uuid: 4d65f336bce94a6aaedc180c5d9d180d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764090588073
+status: 3
+tags: []
+user_id: scale

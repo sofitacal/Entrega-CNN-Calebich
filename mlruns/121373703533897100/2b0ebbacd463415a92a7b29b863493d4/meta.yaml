@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/2b0ebbacd463415a92a7b29b863493d4/artifacts
+end_time: 1764026133545
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 2b0ebbacd463415a92a7b29b863493d4
+run_name: capable-crane-270
+run_uuid: 2b0ebbacd463415a92a7b29b863493d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764025888569
+status: 3
+tags: []
+user_id: scale

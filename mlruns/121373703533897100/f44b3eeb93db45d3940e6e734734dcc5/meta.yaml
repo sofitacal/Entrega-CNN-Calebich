@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/f44b3eeb93db45d3940e6e734734dcc5/artifacts
+end_time: 1764091675814
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: f44b3eeb93db45d3940e6e734734dcc5
+run_name: wise-squirrel-475
+run_uuid: f44b3eeb93db45d3940e6e734734dcc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764091401710
+status: 4
+tags: []
+user_id: scale

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/scale/OneDrive/Desktop/skin-dataset-classification-main/mlruns/121373703533897100/3643a1fd06b949a19219427deda75fdf/artifacts
+end_time: 1764090082123
+entry_point_name: ''
+experiment_id: '121373703533897100'
+lifecycle_stage: active
+run_id: 3643a1fd06b949a19219427deda75fdf
+run_name: nimble-bat-764
+run_uuid: 3643a1fd06b949a19219427deda75fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764090044752
+status: 4
+tags: []
+user_id: scale
